@@ -71,10 +71,13 @@ https://www.credly.com/badges/0ba48d2e-f590-4726-b9e6-cf764df9340d/public_url![u
 
 ### Unity Certified Associate
 
+The Unity Essentials pathway is a learning path designed to teach the fundamental skills necessary to create games using Unity. It is intended for beginners who are new to game development and the Unity engine. The pathway covers topics such as Unity's interface, 2D and 3D game development, asset creation, scripting with C#, and publishing games. By completing this pathway, students will have a strong foundation in Unity and will be able to create their own simple games. The Unity Essentials pathway consists of multiple courses and projects, each building on the skills learned in previous courses.
+![unity-essentials-pathway](https://user-images.githubusercontent.com/104200268/227361677-277e94c6-c567-4b43-98c5-a4fd70cbdbc5.png)
 
+The Unity Junior Programmer Pathway is a training program for aspiring game programmers that provides foundational knowledge and skills in programming with Unity. Participants will learn essential topics such as programming logic, scripting in C#, basic game development concepts, and more. The program teaches them how to create games and game mechanics, optimize performance, collaborate in a team, use industry-standard tools and practices, and develop a professional portfolio. Completion of this program enables individuals to pursue entry-level programming positions in the video game industry or continue on to more advanced Unity development pathways.
 ![unity-junior-programmer](https://user-images.githubusercontent.com/104200268/227361668-aca736c1-1062-461a-8356-f27cb5756169.png)
 
-![unity-essentials-pathway](https://user-images.githubusercontent.com/104200268/227361677-277e94c6-c567-4b43-98c5-a4fd70cbdbc5.png)
+
 
 
 [Insert a brief description of the certification, along with any images or icons to showcase your achievement.]
