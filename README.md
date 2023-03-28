@@ -46,9 +46,9 @@ In my portfolio, you can find examples of my work, including code snippets and p
   
 ### Game Engines
 
-- ![Unity Icon](https://img.icons8.com/color/48/000000/unity.png) Unity
-- ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
-- ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Unity Icon](https://img.icons8.com/color/48/000000/unity.png) Unity
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ###Version Control
   
   ![Plastic SCM](https://img.shields.io/badge/-Plastic%20SCM-00ADD8?logo=plastic-scm&logoColor=white)
@@ -57,23 +57,20 @@ In my portfolio, you can find examples of my work, including code snippets and p
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
   
+
+## Tools
+   ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white)
+  ![Krita](https://img.shields.io/badge/-Krita-3BABFF?logo=krita&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?logo=google-drive&logoColor=white)
+code&logoColor=white)
+
 ### Other Skills
+
+ ![JetBrains Rider](https://img.shields.io/badge/-JetBrains%20Rider-000000?logo=jetbrains&logoColor=white)
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
   ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-  
-## Tools
-  ![JetBrains Rider](https://img.shields.io/badge/-JetBrains%20Rider-000000?logo=jetbrains&logoColor=white)
-  ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white)
-  ![Krita](https://img.shields.io/badge/-Krita-3BABFF?logo=krita&logoColor=white)
-- ![OOP Icon](https://img.icons8.com/color/48/000000/object-oriented-programming.png) Object-oriented programming
-- ![3D Math Icon](https://img.icons8.com/external-inipagistudio-lineal-color-inipagistudio/64/000000/external-mathematics-geometry-inipagistudio-lineal-color-inipagistudio.png) 3D math and linear algebra
-- ![Gameplay Programming Icon](https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/000000/external-game-development-game-design-and-development-flatart-icons-flat-flatarticons-1.png) Gameplay programming
-- ![Game Physics Icon](https://img.icons8.com/external-inipagistudio-lineal-color-inipagistudio/64/000000/external-physics-physics-inipagistudio-lineal-color-inipagistudio.png) Game physics
-- ![AI Programming Icon](https://img.icons8.com/external-inipagistudio-lineal-color-inipagistudio/64/000000/external-artificial-intelligence-big-data-and-machine-learning-inipagistudio-lineal-color-inipagistudio.png) AI programming
-- ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?logo=google-drive&logoColor=white)
-- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-
 
 ## Projects
 
