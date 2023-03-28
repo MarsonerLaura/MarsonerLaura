@@ -50,7 +50,26 @@ In my portfolio, you can find examples of my work, including code snippets and p
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
-
+## Skills
+- Programming Languages: 
+  ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
+  ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+  ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
+  ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+  ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+  ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white)
+- Tools & IDEs:
+  ![JetBrains Rider](https://img.shields.io/badge/-JetBrains%20Rider-000000?logo=jetbrains&logoColor=white)
+  ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white)
+  ![Krita](https://img.shields.io/badge/-Krita-3BABFF?logo=krita&logoColor=white)
+  ![Plastic SCM](https://img.shields.io/badge/-Plastic%20SCM-00ADD8?logo=plastic-scm&logoColor=white)
+  ![Unity Collab](https://img.shields.io/badge/-Unity%20Collab-000000?logo=unity&logoColor=white)
+- Databases:
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+  ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=sql&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+  ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?logo=google-drive&logoColor=white)
 ### Tools and Libraries
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
