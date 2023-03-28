@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Laura</h1>
 <h3 align="center">A passionate game developer from South Tyrol</h3>
 
-
-![unity-junior-programmer](https://user-images.githubusercontent.com/104200268/227361668-aca736c1-1062-461a-8356-f27cb5756169.png)
-![unity-essentials-pathway](https://user-images.githubusercontent.com/104200268/227361677-277e94c6-c567-4b43-98c5-a4fd70cbdbc5.png)
-
 ## About Me
 
 I am a recent Games Engineering graduate with a passion for developing games. I have been programming since 8 years and have experience in programming languages such as Java, C#, and  C++ as well as a strong understanding of the Unity engine. I am eager to apply my skills to create engaging and immersive gameplay experiences.
@@ -25,6 +21,7 @@ In my portfolio, you can find examples of my work, including code snippets and p
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=sql&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 
 ### Game Engines
 ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)
@@ -35,6 +32,8 @@ In my portfolio, you can find examples of my work, including code snippets and p
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?logo=bitbucket&logoColor=white)
 ![SourceTree](https://img.shields.io/badge/-SourceTree-0052CC?logo=sourcetree&logoColor=white)
+![Plastic SCM](https://img.shields.io/badge/-Plastic%20SCM-33aacc?logo=plasticscm&logoColor=white)
+![Unity Collab](https://img.shields.io/badge/-Unity%20Collab-303030?logo=unity&logoColor=white)
 
 ### Tools & Technologies
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white)
@@ -69,6 +68,12 @@ https://www.credly.com/badges/0ba48d2e-f590-4726-b9e6-cf764df9340d/public_url![u
 ![unity-essentials-pathway](https://user-images.githubusercontent.com/104200268/227361712-331b5c34-b6a2-4e02-907d-783e514334a3.png)
 
 ### Unity Certified Associate
+
+
+![unity-junior-programmer](https://user-images.githubusercontent.com/104200268/227361668-aca736c1-1062-461a-8356-f27cb5756169.png)
+
+![unity-essentials-pathway](https://user-images.githubusercontent.com/104200268/227361677-277e94c6-c567-4b43-98c5-a4fd70cbdbc5.png)
+
 
 [Insert a brief description of the certification, along with any images or icons to showcase your achievement.]
 
