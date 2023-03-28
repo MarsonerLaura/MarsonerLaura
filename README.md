@@ -95,4 +95,4 @@ https://www.credly.com/badges/0ba48d2e-f590-4726-b9e6-cf764df9340d/public_url![u
 
 [Insert your email address, LinkedIn profile, and any other relevant contact information.]
 
-- ![Email Icon](https://img.icons8.com/external-flatart-icons-flat-flatart
+- ![Email Icon](https://img.icons8.com/external-flatart-icons-flat-flatart]
