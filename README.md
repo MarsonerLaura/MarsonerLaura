@@ -55,10 +55,12 @@ In my portfolio, you can find examples of my work, including code snippets and p
 [![Microsoft PowerPoint](https://img.shields.io/badge/-Microsoft%20PowerPoint-b7472a?logo=microsoft%20powerpoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
 
 
+![ezgif com-crop](https://user-images.githubusercontent.com/104200268/228308555-fd76d09a-891c-4af3-bacf-f146c8b525a4.gif)
+https://user-images.githubusercontent.com/104200268/228306505-65e03db8-3cb1-4c83-bb28-2906ab161b22.gif
 
 # Projects
 <p>
-<a href="https://github.com/MarsonerLaura/KingdomOfMath"><img align="left" width="50%" height="auto" src="https://user-images.githubusercontent.com/104200268/228306505-65e03db8-3cb1-4c83-bb28-2906ab161b22.gif" alt="Kingdom of Math"></a>
+<a href="https://github.com/MarsonerLaura/KingdomOfMath"><img align="left" width="50%" height="auto" src="https://user-images.githubusercontent.com/104200268/228308555-fd76d09a-891c-4af3-bacf-f146c8b525a4.gif" alt="Kingdom of Math"></a>
   <br>
   <br>
   <h2><a href="https://github.com/MarsonerLaura/KingdomOfMath">Kingdom of Math</a></h2>
@@ -74,6 +76,7 @@ Kingdom of Math is a serious game that combines the addictive and engaging gamep
 If you're interested in learning more about my background and qualifications, you can check out my resume, which is available as a PDF download.
 
 [CV_Laura_Marsoner.pdf](https://github.com/MarsonerLaura/MarsonerLaura/files/11090781/CV_Laura_Marsoner.pdf)
+
 
 <!---
 <h1>Certifications</h2>
