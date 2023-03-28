@@ -64,10 +64,11 @@ In my portfolio, you can find examples of my work, including code snippets and p
 ![Project Image](/path/to/image)
 
 # Resume
+[CV_Laura_Marsoner.pdf](https://github.com/MarsonerLaura/MarsonerLaura/files/11090781/CV_Laura_Marsoner.pdf)
 
 <h1>Certifications</h2>
-
 <details>
+
   <summary><h3>Unity Essentials Pathway</h3></summary>
 <p>
 <a href="https://learn.unity.com/pathway/unity-essentials"><img align="left" width="12%" height="auto" img src="https://user-images.githubusercontent.com/104200268/227361677-277e94c6-c567-4b43-98c5-a4fd70cbdbc5.png" alt="Unity Essentials Pathway Badge"></a>
