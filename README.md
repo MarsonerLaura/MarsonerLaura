@@ -57,10 +57,8 @@ In my portfolio, you can find examples of my work, including code snippets and p
 
 
 # Projects
-<br>
 <p>
 <a href="https://github.com/MarsonerLaura/KingdomOfMath"><img align="left" width="50%" height="auto" src="https://user-images.githubusercontent.com/104200268/228306505-65e03db8-3cb1-4c83-bb28-2906ab161b22.gif" alt="Kingdom of Math"></a>
-  <br>
   <br>
   <br>
   <h2><a href="https://github.com/MarsonerLaura/KingdomOfMath">Kingdom of Math</a></h2>
@@ -70,7 +68,7 @@ Kingdom of Math is a serious game that combines the addictive and engaging gamep
 <br>
  <br>
  <br>
- <br>
+
 
 # Resume
 If you're interested in learning more about my background and qualifications, you can check out my resume, which is available as a PDF download.
