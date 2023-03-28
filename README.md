@@ -63,6 +63,17 @@ In my portfolio, you can find examples of my work, including code snippets and p
   <h2><a href="https://github.com/MarsonerLaura/KingdomOfMath">Kingdom of Math</a></h2>
 Kingdom of Math is a serious game that combines the addictive and engaging gameplay of an action RPG with optional but rewarding mathematical content. In a fantasy world, players can explore, fight enemies, learn skills, complete quests, find chests, collect and upgrade items.
   <br>
+  <br>
+  <div align="center">
+
+`Unity`
+`C#`
+`Krita`
+`Rider`
+`Mixamo`
+`Google Sheets`
+
+</div>
 </p>
  <br>
  <br>
