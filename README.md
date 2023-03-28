@@ -18,10 +18,11 @@ In my portfolio, you can find examples of my work, including code snippets and p
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-003B57?logo=sql&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-003B57?logo=sql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 ### Game Engines
 ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)
@@ -45,6 +46,7 @@ In my portfolio, you can find examples of my work, including code snippets and p
 ![JetBrains Rider](https://img.shields.io/badge/-JetBrains%20Rider-000000?logo=rider&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white)
 
 
 ## Projects
