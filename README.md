@@ -63,33 +63,22 @@ In my portfolio, you can find examples of my work, including code snippets and p
 
 ![Project Image](/path/to/image)
 
-## Certifications
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="437f1894-4bce-4ae9-b2d8-b67a0d7a5d02" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0ba48d2e-f590-4726-b9e6-cf764df9340d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-https://www.credly.com/badges/0ba48d2e-f590-4726-b9e6-cf764df9340d/public_url![unity-junior-programmer](https://user-images.githubusercontent.com/104200268/227361708-9612b7ba-180f-417a-aba5-6137c74c1db3.png)
-![unity-essentials-pathway](https://user-images.githubusercontent.com/104200268/227361712-331b5c34-b6a2-4e02-907d-783e514334a3.png)
+<h1>Certifications</h2>
 
-### Unity Certified Associate
+<h3>Unity Essentials Pathway</h3>
+<p>
+<a href="https://learn.unity.com/pathway/unity-essentials"><img align="left" width="15%" height="auto" img src="https://user-images.githubusercontent.com/104200268/227361677-277e94c6-c567-4b43-98c5-a4fd70cbdbc5.png" alt="Unity Essentials Pathway Badge"></a>
+The Unity Junior Programmer Pathway is a training program for aspiring game programmers that provides foundational knowledge and skills in programming with Unity. Participants will learn essential topics such as programming logic, scripting in C#, basic game development concepts, and more. Completion of this program enables individuals to pursue entry-level programming positions in the video game industry or continue on to more advanced Unity development pathways.
+</p>
 
-The Unity Essentials pathway is a learning path designed to teach the fundamental skills necessary to create games using Unity. It is intended for beginners who are new to game development and the Unity engine. The pathway covers topics such as Unity's interface, 2D and 3D game development, asset creation, scripting with C#, and publishing games. By completing this pathway, students will have a strong foundation in Unity and will be able to create their own simple games. The Unity Essentials pathway consists of multiple courses and projects, each building on the skills learned in previous courses.
-![unity-essentials-pathway](https://user-images.githubusercontent.com/104200268/227361677-277e94c6-c567-4b43-98c5-a4fd70cbdbc5.png)
+<br>
 
-The Unity Junior Programmer Pathway is a training program for aspiring game programmers that provides foundational knowledge and skills in programming with Unity. Participants will learn essential topics such as programming logic, scripting in C#, basic game development concepts, and more. The program teaches them how to create games and game mechanics, optimize performance, collaborate in a team, use industry-standard tools and practices, and develop a professional portfolio. Completion of this program enables individuals to pursue entry-level programming positions in the video game industry or continue on to more advanced Unity development pathways.
-![unity-junior-programmer](https://user-images.githubusercontent.com/104200268/227361668-aca736c1-1062-461a-8356-f27cb5756169.png)
-
-
-
-
-[Insert a brief description of the certification, along with any images or icons to showcase your achievement.]
-
-![Unity Certified Associate Icon](/path/to/icon)
-
-### Unreal Online Learning Certifications
-
-[Insert a brief description of the certifications you earned from Unreal Online Learning, along with any images or icons to showcase your achievements.]
-
-![Unreal Online Learning Certification Icon 1](/path/to/icon1)
-![Unreal Online Learning Certification Icon 2](/path/to/icon2)
+<h3>Unity Junior Programmer Pathway</h3>
+<p>
+<a href="https://learn.unity.com/pathway/junior-programmer"><img align="left" width="15%" height="auto" src="https://user-images.githubusercontent.com/104200268/227361668-aca736c1-1062-461a-8356-f27cb5756169.png" alt="Unity Junior Programmer Pathway Badge"></a>
+The Unity Junior Programmer Pathway is a training program for aspiring game programmers that provides foundational knowledge and skills in programming with Unity. Participants will learn essential topics such as programming logic, scripting in C#, basic game development concepts, and more. Completion of this program enables individuals to pursue entry-level programming positions in the video game industry or continue on to more advanced Unity development pathways.
+</p>
+<br>
 
 # Contact
 If you're interested in collaborating or have any questions, feel free to contact me via:
