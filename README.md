@@ -88,11 +88,13 @@ https://www.credly.com/badges/0ba48d2e-f590-4726-b9e6-cf764df9340d/public_url![u
 ![Unreal Online Learning Certification Icon 1](/path/to/icon1)
 ![Unreal Online Learning Certification Icon 2](/path/to/icon2)
 
-## Contact
-<a href="https://linkedin.com/in/lauramarsoner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lauramarsoner" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/JcMB53u2ET" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/JcMB53u2ET" height="30" width="40" /></a>
-</p>
+## 📬 Contact
+If you're interested in collaborating or have any questions, feel free to contact me via:
 
-[Insert your email address, LinkedIn profile, and any other relevant contact information.]
+- [<img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/lauramarsoner/) - Connect with me on LinkedIn.
+- [<img src="https://img.shields.io/badge/-Discord-7289DA?logo=discord&logoColor=white" alt="Discord">](https://discord.com/channels/@me/Nemesis#5612) - Feel free to drop me a message on Discord if you'd like to chat!
+- [<img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white" alt="Email">](mailto:laura.marsoner@yahoo.de) - Send me an email if you have any inquiries or questions.
 
-- ![Email Icon](https://img.icons8.com/external-flatart-icons-flat-flatart]
+I'm always open to new opportunities and projects, so don't hesitate to reach out!
+
+
