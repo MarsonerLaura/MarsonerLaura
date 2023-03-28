@@ -47,6 +47,13 @@ In my portfolio, you can find examples of my work, including code snippets and p
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white)
+[![Trello](https://img.shields.io/badge/-Trello-0079bf?logo=trello&logoColor=white)](https://trello.com/)
+[![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white)](https://www.notion.so/)
+[![ClickUp](https://img.shields.io/badge/-ClickUp-7b68ee?logo=clickup&logoColor=white)](https://clickup.com/)
+[![Microsoft Word](https://img.shields.io/badge/-Microsoft%20Word-2b579a?logo=microsoft%20word&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/word)
+[![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?logo=microsoft%20excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![Microsoft PowerPoint](https://img.shields.io/badge/-Microsoft%20PowerPoint-b7472a?logo=microsoft%20powerpoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
+
 
 
 # Projects
@@ -66,6 +73,7 @@ In my portfolio, you can find examples of my work, including code snippets and p
 # Resume
 [CV_Laura_Marsoner.pdf](https://github.com/MarsonerLaura/MarsonerLaura/files/11090781/CV_Laura_Marsoner.pdf)
 
+<!---
 <h1>Certifications</h2>
 <details>
 
@@ -82,6 +90,7 @@ The Unity Junior Programmer Pathway is a training program for aspiring game prog
 The Unity Junior Programmer Pathway is a training program for aspiring game programmers that provides foundational knowledge and skills in programming with Unity. Participants will learn essential topics such as programming logic, scripting in C#, basic game development concepts, and more. Completion of this program enables individuals to pursue entry-level programming positions in the video game industry or continue on to more advanced Unity development pathways.
 </p>
   </details>
+-->
 
 # Contact
 If you're interested in collaborating or have any questions, feel free to contact me via:
