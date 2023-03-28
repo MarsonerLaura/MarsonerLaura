@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Laura</h1>
+<h1 align="center">👋 Hi, I'm Laura</h1>
 <h3 align="center">A passionate game developer from South Tyrol</h3>
 
 # About Me
