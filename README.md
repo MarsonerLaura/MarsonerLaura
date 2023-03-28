@@ -14,7 +14,7 @@
 
 ## About Me
 
-I am a recent Games Engineering graduate with a passion for developing games. I have been programming since 8 years and have experience programming in languages such as Java, C#, C++, Java, and Python as well as a strong understanding of the Unity engine. I am eager to apply my skills to create engaging and immersive gameplay experiences.
+I am a recent Games Engineering graduate with a passion for developing games. I have been programming since 8 years and have experience in programming languages such as Java, C#, and  C++ as well as a strong understanding of the Unity engine. I am eager to apply my skills to create engaging and immersive gameplay experiences.
 
 Throughout my studies, I gained a foundation in game development, including the design and implementation of gameplay systems such as AI, physics, UI, and audio. I am excited to continue learning and growing in this field, and I am constantly seeking new challenges to expand my skill set.
 
@@ -35,9 +35,6 @@ In my portfolio, you can find examples of my work, including code snippets and p
 ### Game Engines
 
 - ![Unity Icon](https://img.icons8.com/color/48/000000/unity.png) Unity
-- ![Unreal Engine 4 Icon](https://img.icons8.com/color/48/000000/unreal-engine.png) Unreal Engine 4
-- ![Godot Icon](https://img.icons8.com/officel/40/000000/godot-engine.png) Godot
-- ![GameMaker Studio Icon](https://img.icons8.com/nolan/64/game-maker-studio.png) GameMaker Studio
 
 ### Other Skills
 
