@@ -12,11 +12,16 @@
 ![unity-junior-programmer](https://user-images.githubusercontent.com/104200268/227361668-aca736c1-1062-461a-8356-f27cb5756169.png)
 ![unity-essentials-pathway](https://user-images.githubusercontent.com/104200268/227361677-277e94c6-c567-4b43-98c5-a4fd70cbdbc5.png)
 
-# [Your Name] - Game Programmer
-
 ## About Me
 
-[Insert a brief introduction about yourself, your experience, and your interests in game programming]
+I am a recent Games Engineering graduate with a passion for developing games. I have been programming since 8 years and have experience programming in languages such as Java, C#, C++, Java, and Python as well as a strong understanding of the Unity engine. I am eager to apply my skills to create engaging and immersive gameplay experiences.
+
+Throughout my studies, I gained a foundation in game development, including the design and implementation of gameplay systems such as AI, physics, UI, and audio. I am excited to continue learning and growing in this field, and I am constantly seeking new challenges to expand my skill set.
+
+I am particularly proud of my project Kingdom of Math, where I completed the entire development process from game design to programming the gameplay systems. I also conducted a user study to evaluate the game experience and make improvements based on user feedback. This project showcases my ability to work independently, solve programming problems, and deliver a game that is both engaging and educational.
+
+In my portfolio, you can find examples of my work, including code snippets and project write-ups. Thank you for considering my portfolio, and I look forward to the opportunity to collaborate with you and your team to create great games!
+
 
 ## Skills
 
