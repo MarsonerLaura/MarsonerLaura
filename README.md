@@ -26,7 +26,26 @@ In my portfolio, you can find examples of my work, including code snippets and p
 ## Skills
 
 ### Programming Languages
-
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white)
+![Krita](https://img.shields.io/badge/-Krita-3BABFF?logo=krita&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?logo=bitbucket&logoColor=white)
+![SourceTree](https://img.shields.io/badge/-SourceTree-0052CC?logo=sourcetree&logoColor=white)
+![JetBrains Rider](https://img.shields.io/badge/-JetBrains%20Rider-000000?logo=rider&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-003B57?logo=sql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?logo=google-drive&logoColor=white)
   ![C++ Icon](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C++
   ![C# Icon](https://img.icons8.com/color/48/000000/c-sharp-logo.png) C#
   ![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java
