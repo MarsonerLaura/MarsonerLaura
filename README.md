@@ -109,7 +109,7 @@ The Unity Junior Programmer Pathway is a training program for aspiring game prog
 If you're interested in collaborating or have any questions, feel free to contact me via:
 
 - [<img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/lauramarsoner/) - Connect with me on LinkedIn.
-- [<img src="https://img.shields.io/badge/-Discord-7289DA?logo=discord&logoColor=white" alt="Discord">](https://discord.com/channels/@me/Nemesis#5612) - Feel free to drop me a message on Discord if you'd like to chat!
+- [<img src="https://img.shields.io/badge/-Discord-7289DA?logo=discord&logoColor=white" alt="Discord">] - Feel free to drop me a message on Discord if you'd like to chat! -> Nemesis#5612 
 - [<img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white" alt="Email">](mailto:laura.marsoner@yahoo.de) - Send me an email if you have any inquiries or questions.
 
 I'm always open to new opportunities and projects, so don't hesitate to reach out!
