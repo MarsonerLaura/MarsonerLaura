@@ -71,6 +71,8 @@ In my portfolio, you can find examples of my work, including code snippets and p
 ![Project Image](/path/to/image)
 
 # Resume
+If you're interested in learning more about my background and qualifications, you can check out my resume, which is available as a PDF download.
+
 [CV_Laura_Marsoner.pdf](https://github.com/MarsonerLaura/MarsonerLaura/files/11090781/CV_Laura_Marsoner.pdf)
 
 <!---
