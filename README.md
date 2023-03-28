@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Laura</h1>
 <h3 align="center">A passionate game developer from South Tyrol</h3>
 
-## About Me
+# About Me
 
 I am a recent Games Engineering graduate with a passion for developing games. I have been programming since 8 years and have experience in programming languages such as Java, C#, and  C++ as well as a strong understanding of the Unity engine. I am eager to apply my skills to create engaging and immersive gameplay experiences.
 
@@ -12,7 +12,7 @@ I am particularly proud of my project Kingdom of Math, where I completed the ent
 In my portfolio, you can find examples of my work, including code snippets and project write-ups. Thank you for considering my portfolio, and I look forward to the opportunity to collaborate with you and your team to create great games!
 
 
-## Skills
+# Skills
 
 ### Programming Languages
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
@@ -49,7 +49,7 @@ In my portfolio, you can find examples of my work, including code snippets and p
 ![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white)
 
 
-## Projects
+# Projects
 
 ### [Project Title]
 
@@ -88,7 +88,7 @@ https://www.credly.com/badges/0ba48d2e-f590-4726-b9e6-cf764df9340d/public_url![u
 ![Unreal Online Learning Certification Icon 1](/path/to/icon1)
 ![Unreal Online Learning Certification Icon 2](/path/to/icon2)
 
-## 📬 Contact
+# Contact
 If you're interested in collaborating or have any questions, feel free to contact me via:
 
 - [<img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/lauramarsoner/) - Connect with me on LinkedIn.
