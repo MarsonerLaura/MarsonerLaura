@@ -67,7 +67,7 @@ In my portfolio, you can find examples of my work, including code snippets and p
 
 <h3>Unity Essentials Pathway</h3>
 <p>
-<a href="https://learn.unity.com/pathway/unity-essentials"><img align="left" width="10%" height="auto" img src="https://user-images.githubusercontent.com/104200268/227361677-277e94c6-c567-4b43-98c5-a4fd70cbdbc5.png" alt="Unity Essentials Pathway Badge"></a>
+<a href="https://learn.unity.com/pathway/unity-essentials"><img align="left" width="12%" height="auto" img src="https://user-images.githubusercontent.com/104200268/227361677-277e94c6-c567-4b43-98c5-a4fd70cbdbc5.png" alt="Unity Essentials Pathway Badge"></a>
 The Unity Junior Programmer Pathway is a training program for aspiring game programmers that provides foundational knowledge and skills in programming with Unity. Participants will learn essential topics such as programming logic, scripting in C#, basic game development concepts, and more. Completion of this program enables individuals to pursue entry-level programming positions in the video game industry or continue on to more advanced Unity development pathways.
 </p>
 
@@ -75,7 +75,7 @@ The Unity Junior Programmer Pathway is a training program for aspiring game prog
 
 <h3>Unity Junior Programmer Pathway</h3>
 <p>
-<a href="https://learn.unity.com/pathway/junior-programmer"><img align="left" width="10%" height="auto" src="https://user-images.githubusercontent.com/104200268/227361668-aca736c1-1062-461a-8356-f27cb5756169.png" alt="Unity Junior Programmer Pathway Badge"></a>
+<a href="https://learn.unity.com/pathway/junior-programmer"><img align="left" width="12%" height="auto" src="https://user-images.githubusercontent.com/104200268/227361668-aca736c1-1062-461a-8356-f27cb5756169.png" alt="Unity Junior Programmer Pathway Badge"></a>
 The Unity Junior Programmer Pathway is a training program for aspiring game programmers that provides foundational knowledge and skills in programming with Unity. Participants will learn essential topics such as programming logic, scripting in C#, basic game development concepts, and more. Completion of this program enables individuals to pursue entry-level programming positions in the video game industry or continue on to more advanced Unity development pathways.
 </p>
 <br>
